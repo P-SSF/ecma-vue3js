@@ -33,9 +33,4 @@ npm run build
 ```sh
 npm run lint
 ```
-# ecma-script
-# ecma-script
-# ecma-script-vue3
-# ecma-vue3
-# ecma-vue3js
-# ecma-vue3js
+
