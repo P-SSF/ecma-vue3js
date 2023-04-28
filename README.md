@@ -36,6 +36,8 @@ yarn lint
 
 ### deploy
 
+배포 전 build 를 꼭 해주세요.
+
 ```sh
 yarn deploy
 ```
