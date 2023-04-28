@@ -1,6 +1,7 @@
 # ecma-vue3
 
-This template should help get you started developing with Vue 3 in Vite.
+`vue3` 기반의 `ecma` 최신 뉴스를 가져오는 프로젝트입니다.
+host: <https://ecmanews-f25a0.web.app/>
 
 ## Recommended IDE Setup
 
