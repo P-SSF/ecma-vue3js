@@ -34,3 +34,7 @@ npm run build
 npm run lint
 ```
 
+### Firebase
+
+.firebase
+firebase.json
