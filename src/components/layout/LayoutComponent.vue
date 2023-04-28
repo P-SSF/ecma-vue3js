@@ -6,9 +6,7 @@ import MainComponent from './MainComponent.vue'
 
 <template>
   <div id="layout">
-    <!-- Menu toggle -->
     <a href="#menu" id="menuLink" class="menu-link">
-      <!-- Hamburger icon -->
       <span></span>
     </a>
 

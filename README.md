@@ -19,22 +19,23 @@ npm install
 ### Compile and Hot-Reload for Development
 
 ```sh
-npm run dev
+yarn dev
 ```
 
 ### Compile and Minify for Production
 
 ```sh
-npm run build
+yarn build
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
-npm run lint
+yarn lint
 ```
 
-### Firebase
+### deploy
 
-.firebase
-firebase.json
+```sh
+yarn deploy
+```
