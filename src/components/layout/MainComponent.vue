@@ -13,6 +13,7 @@ const jsDate = 'js2023'
       :key="jsDate + idx"
       :title="item.title"
       :content="item.content"
+      :code="item.code"
     />
   </div>
 </template>
