@@ -11,6 +11,7 @@ export default {
   props: {
     name: String
   },
+  // setup 이 추가되면서 불필요한 것들이 다 없어졌어요.
   setup(props) {
     // 변수 선언
     const msg = 'Hello Setup1!'
