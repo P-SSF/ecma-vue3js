@@ -1,14 +1,14 @@
 import { createWebHistory, createRouter } from 'vue-router'
 
 function getComponent(component) {
-  return () => import(`../components/${component}.vue`)
+  return () => import(`../components/layout/${component}.vue`)
 }
 
 const routes = [
   {
     path: '/',
     name: 'Main',
-    component: getComponent('layout/MainComponent')
+    component: getComponent('MainComponent')
   },
   {
     path: '/404',
