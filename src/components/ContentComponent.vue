@@ -10,7 +10,6 @@ const props = defineProps({
 })
 
 let editor
-
 onMounted(() => {
   editor = new Editor({
     el: document.querySelector('#editor'),
