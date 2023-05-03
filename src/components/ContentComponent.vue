@@ -1,5 +1,5 @@
 <script setup>
-import { defineProps, onMounted } from 'vue'
+import { onMounted } from 'vue'
 import Editor from '@toast-ui/editor'
 import '@toast-ui/editor/dist/toastui-editor.css' // Editor's Style
 

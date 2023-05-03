@@ -1,5 +1,5 @@
 <script setup>
-import { defineProps, onMounted } from 'vue'
+import { onMounted } from 'vue'
 import customOptions from './CustomHooks'
 
 const props = defineProps({
